@@ -1,0 +1,9 @@
+.fw-lighter{
+    float:right;
+    margin-right: 7px;
+}
+.card-title {
+    margin-left:8px;
+}
+.grid:hover{
+  color:blue;
